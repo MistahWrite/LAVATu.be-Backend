@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER": "MistahWrite",
+        "DB_PASSWORD": "AstonOrigin101887",
+        "DB_HOST": "cluster0.d8sez.mongodb.net",
+        "DB_NAME": "places_db",
+        "GOOGLE_API_KEY": "AIzaSyCWu9cWUaNvMZIgCLncg7rqc4GmGk81eXg",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
